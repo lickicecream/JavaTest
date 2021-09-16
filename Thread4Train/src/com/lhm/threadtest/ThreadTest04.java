@@ -13,7 +13,7 @@ public class ThreadTest04  {
             e.printStackTrace();
         }
 
-        mr.run=false;
+        mr.run=true;
 
     }
 }
