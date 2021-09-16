@@ -20,7 +20,7 @@ public class ThreadTest04  {
 
 class MyRunnable01 implements Runnable{
 
-    public boolean run=true;
+    public boolean run=false;
     @Override
     public void run() {
         for(int i=0;i<1000;i++){
