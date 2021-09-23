@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/IOStream4Train/IOStream4Train.iml" filepath="$PROJECT_DIR$/IOStream4Train/IOStream4Train.iml" />
       <module fileurl="file://$PROJECT_DIR$/List4Train/List4Train.iml" filepath="$PROJECT_DIR$/List4Train/List4Train.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maptest01/Maptest01.iml" filepath="$PROJECT_DIR$/Maptest01/Maptest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射机制/Reflect4Train.iml" filepath="$PROJECT_DIR$/反射机制/Reflect4Train.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread4Train/Thread4Train.iml" filepath="$PROJECT_DIR$/Thread4Train/Thread4Train.iml" />
     </modules>
   </component>
