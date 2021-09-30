@@ -6,18 +6,7 @@
     <bookmark url="file://$PROJECT_DIR$/Thread4Train/src/com/lhm/threadtest/ThreadTest01.java" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9b3afc6-8ba3-4500-af95-2f5cf977b87a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/ArgTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/TestAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/UserServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d9b3afc6-8ba3-4500-af95-2f5cf977b87a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,36 +17,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserServices.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/UserServices.java">
+      <file leaf-file-name="IOTest05.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test11.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test11.java">
+      <file leaf-file-name="ObjectOutputStreamTest01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/ObjectOutputStreamTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Student.java">
+      <file leaf-file-name="FileReaderTest01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/FileReaderTest01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-              <folding>
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedReaderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/BufferedReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedReaderTest02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/BufferedReaderTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedWriterTest01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/BufferedWriterTest01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CopyAll.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/CopyAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOTest01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOTest02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOTest03.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -166,13 +211,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thread4Train" type="462c0819:PsiDirectoryNode" />
+              <item name="IOStream4Train" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream4Train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream4Train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream4Train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lhm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream4Train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lhm" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream4Train" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lhm" type="462c0819:PsiDirectoryNode" />
+              <item name="iostream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java4Train" type="b2602c69:ProjectViewProjectNode" />
@@ -209,8 +288,8 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,20 +316,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test11">
+  <component name="RunManager" selected="Application.Test13">
     <configuration name="ArgTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lhm.reflect4train.ArgTest" />
-      <module name="Reflect4Train" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhm.reflect4train.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lhm.reflect4train.Test08" />
       <module name="Reflect4Train" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -284,6 +352,17 @@
     </configuration>
     <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lhm.reflect4train.Test11" />
+      <module name="Reflect4Train" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhm.reflect4train.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lhm.reflect4train.Test13" />
       <module name="Reflect4Train" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -345,19 +424,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test08" />
       <item itemvalue="Application.Test09" />
       <item itemvalue="Application.ArgTest" />
       <item itemvalue="Application.Test10" />
       <item itemvalue="Application.Test11" />
+      <item itemvalue="Application.Test13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test13" />
         <item itemvalue="Application.Test11" />
         <item itemvalue="Application.Test10" />
         <item itemvalue="Application.ArgTest" />
         <item itemvalue="Application.Test09" />
-        <item itemvalue="Application.Test08" />
       </list>
     </recent_temporary>
   </component>
@@ -448,48 +527,66 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="-11" width="1869" height="974" extended-state="6" />
-    <editor active="true" />
+    <frame x="53" y="-4" width="1867" height="953" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32663316" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2104019" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5017503" side_tool="true" weight="0.3288835" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32905483" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4982497" visible="true" weight="0.3261391" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982497" weight="0.2857143" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3484456" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4982497" weight="0.72952855" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27542606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15506849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949748" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24891774" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2104019" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27542606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32663316" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3484456" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4982497" visible="true" weight="0.3261391" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39949748" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5017503" side_tool="true" weight="0.3288835" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4982497" weight="0.72952855" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32905483" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24891774" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982497" weight="0.33168316" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3484456" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26903552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3276699" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3484456" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982497" weight="0.33168316" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -556,68 +653,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="反射机制，类加载器" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/CopyAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/ObjectOutputStreamTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread4Train/src/com/lhm/threadtest/ThreadTest03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread4Train/src/com/lhm/threadtest/ThreadTest04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/student">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/bean/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NewFile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread4Train/src/com/lhm/threadSafe/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread4Train/src/com/lhm/threadSafe2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/local/jdk1.8.0_131/src.zip!/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -744,48 +779,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding>
-            <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1104#1105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/classinfo.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test01.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test02.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test03.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test04.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/classinfo.properties" />
     <entry file="jar:///usr/local/jdk1.8.0_131/src.zip!/java/io/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -793,99 +791,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/classinfo2.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/ResourceBundleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/TestAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/bd.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/ArgTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/反射机制/src/classinfo2.properties" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/ResourceBundleTest.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test05.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test06.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/User.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/TestAll.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test07.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test08.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/bd.properties" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/ArgTest.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test09.java" />
     <entry file="jar:///usr/local/jdk1.8.0_131/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7191">
@@ -893,13 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test10.java" />
     <entry file="jar:///usr/local/jdk1.8.0_131/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -907,24 +817,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/UserServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-          <folding>
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/UserServices.java" />
+    <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Student.java" />
     <entry file="file://$PROJECT_DIR$/反射机制/src/com/lhm/reflect4train/Test11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -932,6 +826,76 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/ObjectOutputStreamTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/FileReaderTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/BufferedReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/BufferedReaderTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/BufferedWriterTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/CopyAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream4Train/src/com/lhm/iostream/IOTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
